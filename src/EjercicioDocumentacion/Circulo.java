@@ -15,7 +15,7 @@ package EjercicioDocumentacion;
  * Añadiendo documentación
  */
 public class Circulo {
-    
+    //modificando proyecto para "Experimentar"
     private double centroX;
     private double centroY;
     private double radio;
