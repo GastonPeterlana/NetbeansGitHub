@@ -9,7 +9,10 @@ package EjercicioDocumentacion;
  *
  * @author Gastón Peterlana
  * 
- * @version 29-03-2019
+ * @version 10-05-2019
+ * Ejempo Github
+ * Ejercicio Netbeans Github
+ * Añadiendo documentación
  */
 public class Circulo {
     
